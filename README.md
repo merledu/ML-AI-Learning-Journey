@@ -33,4 +33,31 @@ There is a "Knowledge" folder in this repository. In this folder there are two f
 # Lecture-2: Uncertainity
 ## Information about the Lecture
 The third lecture name is "Uncertainity". In this lecture you will learn that how can AI get the correct probability of the outcomes of uncertain events. The topics are discussed in this lecture are given below:
+- Probability and it’s types.
+- Random Variables.
+- Naïve Bayes' Rule and Bayesian Network.
+## Projects
+There is a "Uncertainity" folder in this repository. In this folder there are two folders
+- Page Rank
+- Heredity
 
+# Lecture-3: Optimization
+## Information about the Lecture
+The fourth lecture name is "Optimization". In this lecture you will learn that how AI can choose the best option from the set options.
+The topics are discussed in this lecture are given below:
+- Hill Climbing and its improvement techniques.
+- Linear Programing.
+- Constraint Satisfaction and it’s techniques.
+## Projects
+There is a "Optimization" folder in this repository. In this folder there is only one folder
+- Crosswords
+
+# Lecture-4: Learning
+## Information about the Lecture
+The fifth lecture name is "Learning". In this lecture you will learn that how AI can predict future outcomes on the basis of past dataset.
+The topics are discussed in this lecture are give below:
+- Supervised Learning and it’s Algorithms.
+- Reinforcement Learning and it’s Algorithms.
+- Unsupervised Learning and it’s Algorithms.
+## Projects
+The projects are not available in this repository yet
