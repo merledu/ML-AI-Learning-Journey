@@ -27,6 +27,6 @@ The second lecture name is "Knowledge". In this lecture you will learn that how 
 - Conversion of CNF.
 - Inference by Resolution.
 ## Projects
-There is a "knowledge" folder in this repository. In this folder there are two folders
+There is a "Knowledge" folder in this repository. In this folder there are two folders
  - Knights
  - Minesweeper
